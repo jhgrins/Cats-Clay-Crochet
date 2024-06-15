@@ -13,7 +13,7 @@ const Layout = () => {
 				style={{ height: "100vh" }}
 			>
 				<Grid item>
-					<Typography variant={"h2"}>Hello World!</Typography>
+					<Typography variant={"h2"}>Cats Clay Crochet!</Typography>
 				</Grid>
 				<Grid item>
 					<Typography variant={"h4"}>
