@@ -1,12 +1,12 @@
 {
-    "name": "react-static-site",
+    "name": "cats-clay-crochet",
     "version": "1.0.0",
-    "description": "A Modern Web App Template",
+    "description": "Creative Portfolio",
     "scripts": {
         "start": "vite",
         "build": "vite build"
     },
-    "author": "Max Rosoff",
+    "author": "Josette Grinslade",
     "license": "MIT",
     "dependencies": {
         "@emotion/react": "^11.11.0",
